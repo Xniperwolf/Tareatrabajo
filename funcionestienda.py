@@ -2,6 +2,7 @@ ventas = []
 import os
 import csv
 import time
+import json
 
 def registrar_venta():
         os.system("cls")

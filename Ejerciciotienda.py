@@ -2,6 +2,7 @@ import os
 import csv
 import time
 os.system("cls")
+import json
 
 from funcionestienda import *
 
